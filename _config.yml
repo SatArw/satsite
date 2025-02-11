@@ -14,7 +14,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Satwik Arawalli
+title: Satwik Arawalli 
 email: satwik0902020@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   ""Personal website of a robotics engineer in Tokyo, passionate about robot foundation models, AI, and problem-solving.""
@@ -72,7 +72,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/SatArw"
     - lalabel: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/satwik-arawalli/"
