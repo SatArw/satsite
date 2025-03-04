@@ -1,5 +1,5 @@
 ---
-title: "Post: Quote"
+title: "Cycling: Wakasu Seaside Park"
 categories:
   - Blog
 tags:
