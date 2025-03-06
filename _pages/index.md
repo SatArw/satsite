@@ -1,9 +1,13 @@
 ---
-title: "About Me"
-permalink: /aboutme/
+title: "Hello!"
+permalink: /
+layout: single
+author_profile: true
 ---
 
 
+
+Hi there! Nice to meet you. 
 
 I work as a Robotics Engineer at [Ugo Inc.](https://ugo.plus/) in Tokyo. I graduated with a B.Tech in Mechanical Engineering from [IIT Hyderabad](https://iith.ac.in/) in July 2024. I am actively exploring the robotics field, state-of-the-art algorithms, and the challenges of applying them to real-world robots.
 

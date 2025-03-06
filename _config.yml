@@ -103,3 +103,18 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# Set the homepage layout to a static page instead of the blog
+landing-page: true  # (Not necessary, but useful for clarity)
+
+# Point the homepage to your About Me page
+defaults:
+  - scope:
+      path: ""  # Applies to the root of the site
+    values:
+      layout: single
+      permalink: /
+      title: "About Me"
+      excerpt: "Personal website of a robotics engineer."
+      author_profile: true  # Enables sidebar profile (optional)
+
